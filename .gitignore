@@ -1,0 +1,7 @@
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+1
+2ReadFromDatabase
+3addnew

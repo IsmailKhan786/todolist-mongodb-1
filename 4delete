@@ -1,0 +1,16 @@
+when clicked on checkbox it should delete item 
+remove that document  
+
+--input checkbox create new form 
+--styling is changed add item in form
+--- add route to delete
+---post   consolelog it happens nothing because submit button  
+---onChange  = "this.form.submit()"
+---giving name to checkbox 
+---now when clicking it gives on value 
+---console.log(req.body.checkbox)  it gives on  
+---assign value to checkbox based on item id 
+   value = item._id
+--- create constant 
+---remove   using findByIdAndRemove
+--- removed from db but not from ui  res.redirect
